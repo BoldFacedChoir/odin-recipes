@@ -1,0 +1,13 @@
+.heading {
+    text-align: center;
+    color: #1e8b1e;
+    font-size: 35px;
+    background-color: #b3d148;
+    font-weight: 800;
+}
+
+.list {
+    text-align: left;
+    color:blue;
+    font-weight: 500;
+}
